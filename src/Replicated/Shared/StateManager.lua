@@ -5,7 +5,7 @@ local RunService = game:GetService("RunService")
 -- || Directories || --
 local UtilityFolder = ReplicatedStorage.Utility
 -- || Imports || --
-local Utilities = require(UtilityFolder.Utilities)
+local Utilities = require(UtilityFolder.UtiliModule)
 local StatePresets = require(script.Parent.StatePresets)
 -- || Module || --
 if RunService:IsClient() then
