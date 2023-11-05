@@ -1,0 +1,1 @@
+-- Sounds Folder is for audios not for scripts lmfao
